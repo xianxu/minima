@@ -1,7 +1,7 @@
 title: Your Awesome Blog
 author:
-  name: Xian Xu
-  email: xianxu@gmail.com
+  name: Strange Name
+  email: stranger@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -40,9 +40,9 @@ minima:
   # dark	             Dark variant of the classic skin.
   # auto	             Adaptive skin based on the default classic and dark skins.
   # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
+  solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  # skin: classic
 
   # Set to `true` to show excerpts on the homepage.
   #show_excerpts: false
