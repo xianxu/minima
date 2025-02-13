@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+tags: math energy
 ---
 
 This is a blog post with comment section enabled. 

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: code javascript
 ---
 
 This is a blog post without comment section enabled. Some code:
