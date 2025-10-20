@@ -6,7 +6,6 @@ description: >
   Say more
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xianxu.github.io/minima"
 twitter_username: minima_blog
 github_username:  minima_blog
 
