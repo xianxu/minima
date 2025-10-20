@@ -5,7 +5,8 @@ description: >
   Say more
   Say more
 
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://xianxu.github.io" # the base hostname & protocol for your site
+baseurl: "/minima" # the subpath of your site, e.g. /blog
 twitter_username: minima_blog
 github_username:  minima_blog
 
