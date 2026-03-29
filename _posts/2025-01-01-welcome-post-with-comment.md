@@ -2,6 +2,7 @@
 layout: post
 comments: true
 tags: math energy
+highlight: true
 ---
 
 ## Section 1
